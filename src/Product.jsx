@@ -1,12 +1,11 @@
 import React from 'react'
 
 const Product = ({items}) => {
-
   return (
     
     <>
     <div className=" my-12 ">
-      <h2 className='text-[48px] text-center font-bold text-orange-400'>Category Filter App</h2>
+      
     </div>
       <div className="flex gap-10 justify-between flex-wrap">
         {
